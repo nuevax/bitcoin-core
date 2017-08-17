@@ -71,7 +71,8 @@ function source() {
 const networks = {
   mainnet: 8332,
   regtest: 18332,
-  testnet: 18332
+  testnet: 18332,
+  komodo: 7771
 };
 
 /**
